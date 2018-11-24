@@ -1,4 +1,7 @@
 # Logs
+# output directory
+dist
+
 logs
 *.log
 npm-debug.log*
